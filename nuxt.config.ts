@@ -10,5 +10,5 @@ export default defineNuxtConfig({
     WP_REST_API_BASE_URL: process.env.WP_REST_API_BASE_URL,
     WP_USER_NAME: process.env.WP_USER_NAME,
     WP_USER_PASSWORD: process.env.WP_USER_PASSWORD
-  }
+  },
 })
